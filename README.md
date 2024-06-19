@@ -103,4 +103,4 @@ This project is licensed under the [MTB Group](MTBGroup) - [OpenClimate](OpenCli
 
 ## Acknowledgments
 
-Special thanks to the authors of the [Climate Insights Dataset](https://www.kaggle.com/datasets/goyaladi/climate-insights-dataset), [B.M Mugabo](Niyonshuti)and the [Google Colab Notebook](https://colab.research.google.com/drive/1nZuHvfdtxIJNp0wGf2jWnzVDEJKme51p#scrollTo=u9txRYl3TBHe) for providing the resources used in this project.
+Special thanks to the authors of the [Climate Insights Dataset](https://www.kaggle.com/datasets/goyaladi/climate-insights-dataset), [N.M Mugabo](Niyonshuti)and the [Google Colab Notebook](https://colab.research.google.com/drive/1nZuHvfdtxIJNp0wGf2jWnzVDEJKme51p#scrollTo=u9txRYl3TBHe) for providing the resources used in this project.
