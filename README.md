@@ -11,12 +11,12 @@ The dataset used for this project is sourced from the [Climate Insights Dataset 
 - **Source**: [Kaggle: Climate Insights Dataset](https://www.kaggle.com/datasets/goyaladi/climate-insights-dataset?select=Readme.md)
 - **Files**: The dataset consists of CSV file and a README that provides a detailed description of the data columns and their sources.
 - **Key Features**:
-  - Temperature: Average temperature measurements in Celsius.
-  - Sea Level Rise: Measured sea level rise in millimeters.
-  - CO2 Emissions: Levels of carbon dioxide emissions in parts per million (ppm).
-  - Precipitation: Rainfall amounts in millimeters.
-  - Humidity: Relative humidity in percentage.
-  - Wind Speed: Wind speed in kilometers per hour.
+  - **Temperature:** *Average temperature measurements in Celsius.*
+  - **Sea Level Rise:** *Measured sea level rise in millimeters.*
+  - **CO2 Emissions:** *Levels of carbon dioxide emissions in parts per million (ppm).*
+  - **Precipitation:** *Rainfall amounts in millimeters.*
+  - **Humidity:** *Relative humidity in percentage.*
+  - **Wind Speed:** *Wind speed in kilometers per hour.*
 
 ## Project Structure
 
@@ -31,7 +31,7 @@ The dataset used for this project is sourced from the [Climate Insights Dataset 
 To replicate the analysis, ensure you have the following installed:
 
 - Python 3.7+
-- Jupyter Notebook
+- Google Colab Notebook
 - pandas
 - numpy
 - matplotlib
@@ -99,8 +99,8 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 ## License
 
-This project is licensed under the MTB Group - OpenClimate Startup License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MTB Group](MTBGroup) - [OpenClimate](OpenClimate) Startup License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-Special thanks to the authors of the [Climate Insights Dataset](https://www.kaggle.com/datasets/goyaladi/climate-insights-dataset) and the [Google Colab Notebook](https://colab.research.google.com/drive/1nZuHvfdtxIJNp0wGf2jWnzVDEJKme51p#scrollTo=u9txRYl3TBHe) for providing the resources used in this project.
+Special thanks to the authors of the [Climate Insights Dataset](https://www.kaggle.com/datasets/goyaladi/climate-insights-dataset), [B.M Mugabo](Niyonshuti)and the [Google Colab Notebook](https://colab.research.google.com/drive/1nZuHvfdtxIJNp0wGf2jWnzVDEJKme51p#scrollTo=u9txRYl3TBHe) for providing the resources used in this project.
