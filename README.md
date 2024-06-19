@@ -99,7 +99,7 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 ## License
 
-This project is licensed under the [MTB Group](MTBGroup) - [OpenClimate](OpenClimate) Startup License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MTB Group]([MTBGroup](https://mugabo-theta.vercel.app/)) - [OpenClimate](OpenClimate) Startup License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
